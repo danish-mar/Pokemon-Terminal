@@ -1,0 +1,17 @@
+#U need to run this commanmds with sudo access 
+
+sudo apt-get install tilix #installs tilix terminal
+
+sudo apt-get install git #install gitCLI
+
+#this command is for those who hasnt installed git in linux
+
+sudo apt-get install git
+
+git clone https://github.com/LazoCoder/Pokemon-Terminal
+
+cd Pokemon-Terminal
+
+python3 install.py install #if this does not work rerun it with sudo
+
+DONE !! Pokemon TErminal Installed 
